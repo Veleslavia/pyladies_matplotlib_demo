@@ -3,3 +3,4 @@ matplotlib
 mpld3
 notebook
 numpy
+pandas
